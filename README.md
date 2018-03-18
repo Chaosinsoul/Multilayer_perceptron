@@ -1,1 +1,1 @@
-# Multilayer_perceptron-
+# In this project, we create multilayer perceptron by scratch. In the neuron network, we explored different activation functions like sigmoid, relu, tanh, different number of layers and hidden units, L1 and L2 regulariztaion, logistic and softmax output layers, annealing learning rate, momentum, gradient checking. Besides, we use MNIST dataset.   
